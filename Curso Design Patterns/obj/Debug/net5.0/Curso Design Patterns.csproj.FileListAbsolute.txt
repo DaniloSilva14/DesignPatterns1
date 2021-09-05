@@ -1,0 +1,16 @@
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\Curso Design Patterns.exe
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\Curso Design Patterns.deps.json
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\Curso Design Patterns.runtimeconfig.json
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\Curso Design Patterns.runtimeconfig.dev.json
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\Curso Design Patterns.dll
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\ref\Curso Design Patterns.dll
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\bin\Debug\net5.0\Curso Design Patterns.pdb
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.csprojAssemblyReference.cache
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.AssemblyInfoInputs.cache
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.AssemblyInfo.cs
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.dll
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\ref\Curso Design Patterns.dll
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.pdb
+C:\Users\AS-Informatica\source\repos\Curso Design Patterns\Curso Design Patterns\obj\Debug\net5.0\Curso Design Patterns.genruntimeconfig.cache

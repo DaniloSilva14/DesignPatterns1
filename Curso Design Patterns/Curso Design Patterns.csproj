@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Curso_Design_Patterns</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Aula 1\**" />
+    <Compile Remove="Aula 2\**" />
+    <Compile Remove="Aula 3\**" />
+    <Compile Remove="Aula 4\**" />
+    <Compile Remove="Aula 5\**" />
+    <Compile Remove="Aula 6\**" />
+    <EmbeddedResource Remove="Aula 1\**" />
+    <EmbeddedResource Remove="Aula 2\**" />
+    <EmbeddedResource Remove="Aula 3\**" />
+    <EmbeddedResource Remove="Aula 4\**" />
+    <EmbeddedResource Remove="Aula 5\**" />
+    <EmbeddedResource Remove="Aula 6\**" />
+    <None Remove="Aula 1\**" />
+    <None Remove="Aula 2\**" />
+    <None Remove="Aula 3\**" />
+    <None Remove="Aula 4\**" />
+    <None Remove="Aula 5\**" />
+    <None Remove="Aula 6\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="CalculadorDeImposto.cs" />
+    <Compile Remove="Item.cs" />
+    <Compile Remove="MainUsada.cs" />
+    <Compile Remove="Orcamento.cs" />
+  </ItemGroup>
+
+</Project>
